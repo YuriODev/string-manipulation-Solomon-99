@@ -1,1 +1,5 @@
-# Your solution to Exercise 28
+message = input()
+
+words = message.count(" ") + 1
+
+print(words)

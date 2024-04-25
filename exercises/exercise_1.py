@@ -1,1 +1,2 @@
-# Your solution to Exercise 1
+number = input()
+print(number + number)
