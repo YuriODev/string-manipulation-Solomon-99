@@ -1,1 +1,5 @@
-# Your solution to Exercise 2
+sentence = input()
+
+new_sentence = sentence.title()
+
+print(new_sentence)

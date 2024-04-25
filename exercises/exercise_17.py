@@ -1,1 +1,4 @@
-# Your solution to Exercise 17
+message = input()
+num_of_words = message.count(" ") + 1
+
+print(num_of_words)
